@@ -30,13 +30,9 @@ OpenMP parallelization and strong-scaling analysis of a 2D Jacobi stencil, inclu
 
 A reproducible SZ3 rate–distortion study on Hurricane ISABEL data with error-bound sweeps, independent PSNR verification, compression metrics, and generated analysis plots.
 
-### [Case Management Assessment Platform](https://github.com/Troy08/CommonAssessmentTool)
-
-A team-built Python service for case management and intervention analysis, with authenticated CRUD APIs, data processing, automated tests, and a separate web client.
-
 ## Engineering toolkit
 
-`Swift` · `SwiftUI` · `Python` · `FastAPI` · `Supabase/PostgreSQL` · `LLM systems` · `C/OpenMP` · `Flutter` · `Vue`
+`Swift` · `SwiftUI` · `Python` · `FastAPI` · `Supabase/PostgreSQL` · `LLM systems` · `C/OpenMP`
 
 ## How I work
 
