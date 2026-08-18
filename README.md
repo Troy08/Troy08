@@ -16,7 +16,7 @@ I lead the product and engineering work across:
 - a **FastAPI** backend with strict Pydantic contracts, Supabase authentication and persistence, and provider abstractions;
 - structured calendar/task mutations with explicit review before user data changes;
 - deterministic scheduling, fallback, and cache paths that keep the product useful when AI is unavailable;
-- automated coverage across iOS domain logic, API contracts, repositories, authentication, and provider failure modes.
+- automated coverage across iOS domain logic, API contracts, repositories, authentication, and provider failure modes (`817` iOS tests and `286` backend tests in the current verified build).
 
 The source repository is private during active product development and is available for interview review.
 
