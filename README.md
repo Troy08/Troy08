@@ -2,11 +2,7 @@
 
 **Incoming PhD Student @ George Mason University | AI Security & Memory Forensics | Software Engineer**
 
-I'm an incoming PhD student in Information Science and Technology at George Mason University, beginning in Spring 2027.
-
-My research interests include AI Security, Memory Forensics, LLM Security, and Trustworthy AI. I am particularly interested in understanding the security implications of AI systems through runtime analysis and forensic reconstruction.
-
-Alongside research, I have a background in software engineering, AI-powered applications, and scalable backend development.
+I'm an incoming PhD student in Information Science and Technology at George Mason University, beginning in Spring 2027, with a background in software engineering, AI-powered applications, and scalable backend development.
 
 ## Current focus
 
@@ -27,22 +23,12 @@ Current research directions include:
 
 ### Lumi - Privacy-Aware AI Life Assistant
 
-Building an AI-native iOS assistant focused on personal productivity, privacy, and reliable automation.
+An AI-native iOS assistant for calendars, reminders, weather, user-approved memory, and conversational planning.
 
-- iOS: SwiftUI, EventKit, WeatherKit, Core Location
-- Backend: Python, FastAPI, Supabase, PostgreSQL
-- AI: LLM integration, structured outputs, context management
-- Engineering: API design, testing, authentication, and reliable fallback systems
-
-Lumi is an iOS assistant that brings calendars, reminders, weather, user-approved memory, and conversational planning into one daily workflow.
-
-I lead the product and engineering work across:
-
-- a native **SwiftUI** client using EventKit, WeatherKit, Core Location, Speech, and UserNotifications;
-- a **FastAPI** backend with strict Pydantic contracts, Supabase authentication and persistence, and provider abstractions;
-- structured calendar/task mutations with explicit review before user data changes;
-- deterministic scheduling, fallback, and cache paths that keep the product useful when AI is unavailable;
-- automated coverage across iOS domain logic, API contracts, repositories, authentication, and provider failure modes (`817` iOS tests and `286` backend tests in the current verified build).
+- SwiftUI client (EventKit, WeatherKit, Core Location, Speech, UserNotifications) with a FastAPI backend, Pydantic contracts, and Supabase/PostgreSQL.
+- Calendar and task changes require explicit review before user data is mutated.
+- Deterministic scheduling, fallback, and cache paths keep the product useful when AI is unavailable.
+- Current verified build: `817` iOS tests and `286` backend tests.
 
 The source repository is private during active product development and is available for interview review.
 
