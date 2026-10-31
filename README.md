@@ -1,12 +1,38 @@
 # Weicheng (Troy) Wang
 
-Product-minded software engineer building AI-native mobile experiences and reliable backend systems.
+**Incoming PhD Student @ George Mason University | AI Security & Memory Forensics | Software Engineer**
 
-I care about the parts of AI products that live beyond the demo: trustworthy context handling, structured outputs, deterministic fallbacks, privacy boundaries, testable architecture, and a calm user experience.
+I'm an incoming PhD student in Information Science and Technology at George Mason University, beginning in Spring 2027.
+
+My research interests include AI Security, Memory Forensics, LLM Security, and Trustworthy AI. I am particularly interested in understanding the security implications of AI systems through runtime analysis and forensic reconstruction.
+
+Alongside research, I have a background in software engineering, AI-powered applications, and scalable backend development.
 
 ## Current focus
 
-### Lumi — privacy-aware AI life assistant
+### LLM Watermark Security & Memory Forensics
+
+*Preliminary PhD Research - George Mason University*
+
+Exploring the security implications of LLM watermark state exposure in runtime memory.
+
+Current research directions include:
+
+- Investigating the recovery of watermark configurations from offline memory snapshots.
+- Exploring source-guided, symbol-independent memory reconstruction.
+- Evaluating the security implications of recovered watermark states.
+- Studying watermark behavior reproduction across different language models.
+
+**Status:** Preliminary research and feasibility investigation.
+
+### Lumi - Privacy-Aware AI Life Assistant
+
+Building an AI-native iOS assistant focused on personal productivity, privacy, and reliable automation.
+
+- iOS: SwiftUI, EventKit, WeatherKit, Core Location
+- Backend: Python, FastAPI, Supabase, PostgreSQL
+- AI: LLM integration, structured outputs, context management
+- Engineering: API design, testing, authentication, and reliable fallback systems
 
 Lumi is an iOS assistant that brings calendars, reminders, weather, user-approved memory, and conversational planning into one daily workflow.
 
@@ -19,6 +45,10 @@ I lead the product and engineering work across:
 - automated coverage across iOS domain logic, API contracts, repositories, authentication, and provider failure modes (`817` iOS tests and `286` backend tests in the current verified build).
 
 The source repository is private during active product development and is available for interview review.
+
+## Research interests
+
+AI Security · Memory Forensics · LLM Security · Trustworthy AI · Runtime Analysis · Digital Forensics
 
 ## Selected work
 
